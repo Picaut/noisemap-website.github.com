@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Noisemap
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
